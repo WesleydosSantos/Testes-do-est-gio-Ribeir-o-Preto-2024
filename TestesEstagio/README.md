@@ -1,18 +1,10 @@
-## Getting Started
+## Estágio Ribeirão Preto - 2024
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá, me chamo Wesley, este repositório é destinado a responder aos desafios propostos pelo Estágio Ribeirão Preto - 2024.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Tecnologias utilizadas
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Visual Studio Code
+Java 17.0.7
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
