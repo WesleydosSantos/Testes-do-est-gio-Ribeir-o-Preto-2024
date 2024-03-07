@@ -1,0 +1,18 @@
+Para resolver esse problema com apenas duas idas até a sala das lâmpadas, elaborei os seguintes passos:
+
+    Primeira visita à sala das lâmpadas:
+        Ligo o primeiro interruptor e deixo ele ligado por alguns minutos.
+        Desligo o primeiro interruptor e ligo o segundo interruptor.
+        Deixo o segundo interruptor ligado e visito a sala das lâmpadas.
+
+    Neste ponto, vejo três situações possíveis:
+        Se a lâmpada estiver acesa, isso significa que o segundo interruptor controla essa lâmpada.
+        Se a lâmpada estiver apagada e quente ao toque, isso significa que o primeiro interruptor controla essa lâmpada.
+        Se a lâmpada estiver apagada e fria ao toque, isso significa que o terceiro interruptor controla essa lâmpada.
+
+    Segunda visita à sala das lâmpadas:
+        Se a lâmpada estiver apagada, mas quente ao toque, isso significa que o primeiro interruptor foi o único ligado durante a primeira visita.
+        Se a lâmpada estiver apagada e fria ao toque, isso significa que o terceiro interruptor foi o único ligado durante a primeira visita.
+        Se a lâmpada estiver acesa, isso significa que o segundo interruptor foi o único ligado durante a primeira visita.
+
+Faria isso para determinar qual interruptor controla cada lâmpada com apenas duas idas à sala das lâmpadas.
