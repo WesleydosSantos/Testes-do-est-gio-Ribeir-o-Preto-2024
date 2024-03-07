@@ -5,6 +5,5 @@ Olá, me chamo Wesley, este repositório é destinado a responder aos desafios p
 
 ## Tecnologias utilizadas
 
-Visual Studio Code
-Java 17.0.7
+Visual Studio Code e Java 17.0.7
 
